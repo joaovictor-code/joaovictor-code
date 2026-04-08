@@ -32,5 +32,5 @@ Atualmente desenvolvendo novos projetos para compor meu portfólio.
 
 ## 📫 Contato
 
-- Email: seuemail@email.com  
-- WhatsApp: https://wa.me/seunumero
+- Instagram: @irondev_9
+- Tiktok: @irondev6
