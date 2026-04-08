@@ -18,9 +18,11 @@ Estou em constante evolução no desenvolvimento web, criando projetos reais par
 
 ## 🛠️ Tecnologias
 
-<p>
-  HTML • CSS • JavaScript
-</p>
+## 🛠️ Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 
 ---
 
