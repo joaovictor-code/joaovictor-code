@@ -16,7 +16,6 @@ Estou em constante evolução no desenvolvimento web, criando projetos reais par
 
 ---
 
-## 🛠️ Tecnologias
 
 ## 🛠️ Tecnologias
 
