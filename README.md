@@ -1,37 +1,40 @@
 <h1 align="center">João Victor</h1>
 
 <p align="center">
-  Desenvolvedor Front-End em formação
+  Front-End Developer
 </p>
 
 <p align="center">
-  Focado em criar interfaces modernas e funcionais
+  Criação de interfaces modernas e experiências web responsivas
 </p>
 
 ---
 
 ## 🚀 Sobre
 
-Estou em constante evolução no desenvolvimento web, criando projetos reais para desenvolver minhas habilidades e me tornar um profissional da área.
+Desenvolvedor Front-End focado na construção de interfaces funcionais, limpas e responsivas utilizando tecnologias web.
 
 ---
 
-
 ## 🛠️ Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</p>
 
 ---
 
 ## 📌 Projetos
 
-Atualmente desenvolvendo novos projetos para compor meu portfólio.
+Projetos práticos desenvolvidos para aprimorar habilidades em desenvolvimento front-end.
 
 ---
 
 ## 📫 Contato
 
-- Instagram: @irondev_9
-- Tiktok: @irondev6
+Instagram: @irondev_9  
+TikTok: @irondev6
